@@ -1,0 +1,6 @@
+@RizzlerEnablerAPI_HostAddress = http://localhost:5206
+
+GET {{RizzlerEnablerAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
